@@ -1,0 +1,10 @@
+Please pay attention [root / WARNING] at 2021-11-02 13:20:01,587  
+An error occurred [root / ERROR] at 2021-11-02 13:20:01,587  
+A critical error or failure [root / CRITICAL] at 2021-11-02 13:20:01,588  
+message [root / Level 35] at 2021-11-02 13:20:01,588  
+Debug [foo / DEBUG] at 2021-11-02 13:20:01,588  
+This is info message [foo / INFO] at 2021-11-02 13:20:01,588  
+Please pay attention [foo / WARNING] at 2021-11-02 13:20:01,588  
+An error occurred [foo / ERROR] at 2021-11-02 13:20:01,588  
+A critical error or failure [foo / CRITICAL] at 2021-11-02 13:20:01,588  
+message [foo / Level 35] at 2021-11-02 13:20:01,588  
